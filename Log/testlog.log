@@ -1,0 +1,204 @@
+2021-07-22 19:36:30,715 - SelProject -INFO - userName provided
+2021-07-22 19:36:30,857 - SelProject -INFO - password provided
+2021-07-22 19:36:33,376 - SelProject -INFO - clicked Submit button
+2021-07-22 19:36:37,151 - SelProject -WARN - Login Passed
+2021-07-22 19:36:37,286 - SelProject -INFO - userName provided
+2021-07-22 19:36:37,415 - SelProject -INFO - password provided
+2021-07-22 19:36:39,348 - SelProject -INFO - clicked Submit button
+2021-07-22 19:36:42,586 - SelProject -WARN - Login Passed
+2021-07-22 19:37:23,166 - SelProject -INFO - Entered UserName
+2021-07-22 19:37:23,278 - SelProject -INFO - Entered password:ArAbypU
+2021-07-22 19:37:25,634 - SelProject -INFO - Clicked Submit Button
+2021-07-22 19:37:25,665 - SelProject -INFO - Login Test Case Passed
+2021-07-22 19:38:07,757 - SelProject -INFO - Entered UserName
+2021-07-22 19:38:07,867 - SelProject -INFO - Entered password:ArAbypU
+2021-07-22 19:38:09,962 - SelProject -INFO - Clicked Submit Button
+2021-07-22 19:38:10,009 - SelProject -INFO - Login Test Case Passed
+2021-07-22 19:38:19,450 - SelProject -INFO - userName provided
+2021-07-22 19:38:19,603 - SelProject -INFO - password provided
+2021-07-22 19:38:21,645 - SelProject -INFO - clicked Submit button
+2021-07-22 19:38:23,929 - SelProject -WARN - Login Passed
+2021-07-22 19:38:24,033 - SelProject -INFO - userName provided
+2021-07-22 19:38:24,130 - SelProject -INFO - password provided
+2021-07-22 19:38:25,458 - SelProject -INFO - clicked Submit button
+2021-07-22 19:38:28,884 - SelProject -WARN - Login Passed
+2021-07-22 19:47:12,451 - SelProject -INFO - Entered UserName
+2021-07-22 19:47:12,623 - SelProject -INFO - Entered password:ArAbypU
+2021-07-22 19:47:14,833 - SelProject -INFO - Clicked Submit Button
+2021-07-22 19:47:14,845 - SelProject -INFO - Login Test Case Passed
+2021-07-22 19:47:25,436 - SelProject -INFO - userName provided
+2021-07-22 19:47:25,629 - SelProject -INFO - password provided
+2021-07-22 19:47:27,955 - SelProject -INFO - clicked Submit button
+2021-07-22 19:47:31,733 - SelProject -WARN - Login Passed
+2021-07-22 19:47:31,892 - SelProject -INFO - userName provided
+2021-07-22 19:47:31,993 - SelProject -INFO - password provided
+2021-07-22 19:47:34,077 - SelProject -INFO - clicked Submit button
+2021-07-22 19:47:37,816 - SelProject -WARN - Login Passed
+2021-07-22 19:47:38,180 - SelProject -INFO - TestCase Failedhttp://demo.guru99.com/v3/index.php
+2021-07-22 19:51:02,687 - SelProject -INFO - Entered UserName
+2021-07-22 19:51:02,803 - SelProject -INFO - Entered password:ArAbypU
+2021-07-22 19:51:06,908 - SelProject -INFO - Clicked Submit Button
+2021-07-22 19:55:48,430 - SelProject -INFO - Entered UserName
+2021-07-22 19:55:48,554 - SelProject -INFO - Entered password:ArAbypU
+2021-07-22 19:55:53,298 - SelProject -INFO - Clicked Submit Button
+2021-07-22 19:55:53,346 - SelProject -INFO - Login Test Case Passed
+2021-07-22 19:56:25,691 - SelProject -INFO - Entered UserName
+2021-07-22 19:56:25,815 - SelProject -INFO - Entered password:ArAbypU
+2021-07-22 19:56:28,691 - SelProject -INFO - Clicked Submit Button
+2021-07-22 19:59:21,514 - SelProject -INFO - Entered UserName
+2021-07-22 19:59:21,625 - SelProject -INFO - Entered password:ArAbypU
+2021-07-22 19:59:23,725 - SelProject -INFO - Clicked Submit Button
+2021-07-22 19:59:36,698 - SelProject -INFO - userName provided
+2021-07-22 19:59:36,832 - SelProject -INFO - password provided
+2021-07-22 19:59:40,819 - SelProject -INFO - clicked Submit button
+2021-07-22 19:59:45,874 - SelProject -WARN - Login Passed
+2021-07-22 19:59:46,013 - SelProject -INFO - userName provided
+2021-07-22 19:59:46,126 - SelProject -INFO - password provided
+2021-07-22 19:59:48,210 - SelProject -INFO - clicked Submit button
+2021-07-22 19:59:54,312 - SelProject -WARN - Login Passed
+2021-07-22 19:59:54,600 - SelProject -INFO - TestCase Failedhttp://demo.guru99.com/v3/index.php
+2021-07-22 20:04:57,820 - SelProject -INFO - Entered UserName
+2021-07-22 20:04:57,927 - SelProject -INFO - Entered password:ArAbypU
+2021-07-22 20:05:03,994 - SelProject -INFO - Clicked Submit Button
+2021-07-22 20:05:14,933 - SelProject -INFO - userName provided
+2021-07-22 20:05:15,059 - SelProject -INFO - password provided
+2021-07-22 20:05:17,415 - SelProject -INFO - clicked Submit button
+2021-07-22 20:05:20,510 - SelProject -WARN - Login Passed
+2021-07-22 20:05:20,614 - SelProject -INFO - userName provided
+2021-07-22 20:05:20,706 - SelProject -INFO - password provided
+2021-07-22 20:05:22,683 - SelProject -INFO - clicked Submit button
+2021-07-22 20:05:25,719 - SelProject -WARN - Login Passed
+2021-07-22 20:08:42,142 - SelProject -INFO - Entered UserName
+2021-07-22 20:08:42,272 - SelProject -INFO - Entered password:ArAbypU
+2021-07-22 20:08:44,212 - SelProject -INFO - Clicked Submit Button
+2021-07-22 20:08:54,866 - SelProject -INFO - userName provided
+2021-07-22 20:08:54,968 - SelProject -INFO - password provided
+2021-07-22 20:08:57,896 - SelProject -INFO - clicked Submit button
+2021-07-22 20:09:01,113 - SelProject -WARN - Login Passed
+2021-07-22 20:09:01,264 - SelProject -INFO - userName provided
+2021-07-22 20:09:01,351 - SelProject -INFO - password provided
+2021-07-22 20:09:03,376 - SelProject -INFO - clicked Submit button
+2021-07-22 20:09:06,939 - SelProject -WARN - Login Passed
+2021-07-22 20:09:06,972 - SelProject -INFO - TestCase pAssed
+2021-07-22 20:10:39,465 - SelProject -INFO - Entered UserName
+2021-07-22 20:10:39,591 - SelProject -INFO - Entered password:ArAbypU
+2021-07-22 20:10:42,157 - SelProject -INFO - Clicked Submit Button
+2021-07-22 20:10:52,011 - SelProject -INFO - userName provided
+2021-07-22 20:10:52,120 - SelProject -INFO - password provided
+2021-07-22 20:10:54,415 - SelProject -INFO - clicked Submit button
+2021-07-22 20:10:57,394 - SelProject -WARN - Login Passed
+2021-07-22 20:10:57,502 - SelProject -INFO - userName provided
+2021-07-22 20:10:57,600 - SelProject -INFO - password provided
+2021-07-22 20:10:59,848 - SelProject -INFO - clicked Submit button
+2021-07-22 20:11:04,068 - SelProject -WARN - Login Passed
+2021-07-22 20:15:09,983 - SelProject -INFO - Entered UserName
+2021-07-22 20:15:10,095 - SelProject -INFO - Entered password:ArAbypU
+2021-07-22 20:15:12,527 - SelProject -INFO - Clicked Submit Button
+2021-07-22 20:15:22,012 - SelProject -INFO - userName provided
+2021-07-22 20:15:22,121 - SelProject -INFO - password provided
+2021-07-22 20:15:24,679 - SelProject -INFO - clicked Submit button
+2021-07-22 20:15:27,573 - SelProject -WARN - Login Passed
+2021-07-22 20:15:27,720 - SelProject -INFO - userName provided
+2021-07-22 20:15:27,817 - SelProject -INFO - password provided
+2021-07-22 20:15:30,367 - SelProject -INFO - clicked Submit button
+2021-07-22 20:15:33,547 - SelProject -WARN - Login Passed
+2021-07-22 20:18:59,135 - SelProject -INFO - Entered UserName
+2021-07-22 20:18:59,306 - SelProject -INFO - Entered password:ArAbypU
+2021-07-22 20:19:01,052 - SelProject -INFO - Clicked Submit Button
+2021-07-22 20:19:10,408 - SelProject -INFO - userName provided
+2021-07-22 20:19:10,555 - SelProject -INFO - password provided
+2021-07-22 20:19:12,777 - SelProject -INFO - clicked Submit button
+2021-07-22 20:19:15,854 - SelProject -WARN - Login Passed
+2021-07-22 20:19:15,966 - SelProject -INFO - userName provided
+2021-07-22 20:19:16,063 - SelProject -INFO - password provided
+2021-07-22 20:19:19,499 - SelProject -INFO - clicked Submit button
+2021-07-22 20:19:23,482 - SelProject -WARN - Login Passed
+2021-07-22 20:19:23,874 - SelProject -INFO - TestCase pAssed
+2021-07-22 20:19:24,210 - SelProject -INFO - TestCase pAssed
+2021-07-22 20:19:24,489 - SelProject -INFO - TestCase pAssed
+2021-07-22 20:23:30,677 - SelProject -INFO - Entered UserName
+2021-07-22 20:23:30,793 - SelProject -INFO - Entered password:ArAbypU
+2021-07-22 20:23:33,129 - SelProject -INFO - Clicked Submit Button
+2021-07-22 20:23:43,391 - SelProject -INFO - userName provided
+2021-07-22 20:23:43,613 - SelProject -INFO - password provided
+2021-07-22 20:23:46,064 - SelProject -INFO - clicked Submit button
+2021-07-22 20:23:49,161 - SelProject -WARN - Login Passed
+2021-07-22 20:23:49,261 - SelProject -INFO - userName provided
+2021-07-22 20:23:49,362 - SelProject -INFO - password provided
+2021-07-22 20:23:51,410 - SelProject -INFO - clicked Submit button
+2021-07-22 20:23:55,307 - SelProject -WARN - Login Passed
+2021-07-22 20:23:55,633 - SelProject -INFO - TestCase pAssed
+2021-07-22 20:23:55,846 - SelProject -INFO - TestCase pAssed
+2021-07-22 20:23:56,040 - SelProject -INFO - TestCase pAssed
+2021-07-22 20:38:47,601 - SelProject -INFO - Entered UserName
+2021-07-22 20:38:47,723 - SelProject -INFO - Entered password:ArAbypU
+2021-07-22 20:38:49,735 - SelProject -INFO - Clicked Submit Button
+2021-07-22 20:38:49,773 - SelProject -INFO - Login Test Case Passed
+2021-07-22 20:39:00,616 - SelProject -INFO - userName provided
+2021-07-22 20:39:00,738 - SelProject -INFO - password provided
+2021-07-22 20:39:03,015 - SelProject -INFO - clicked Submit button
+2021-07-22 20:39:06,563 - SelProject -WARN - Login Passed
+2021-07-22 20:39:06,689 - SelProject -INFO - userName provided
+2021-07-22 20:39:06,782 - SelProject -INFO - password provided
+2021-07-22 20:39:08,443 - SelProject -INFO - clicked Submit button
+2021-07-22 20:39:25,083 - SelProject -WARN - Login Passed
+2021-07-22 20:39:26,028 - SelProject -INFO - TestCase pAssed
+2021-07-22 20:39:26,230 - SelProject -INFO - TestCase pAssed
+2021-07-22 20:39:26,464 - SelProject -INFO - TestCase pAssed
+2021-07-22 20:44:43,683 - SelProject -INFO - Entered UserName
+2021-07-22 20:44:43,840 - SelProject -INFO - Entered password:ArAbypU
+2021-07-22 20:44:45,963 - SelProject -INFO - Clicked Submit Button
+2021-07-22 20:44:46,044 - SelProject -INFO - Login Test Case Passed
+2021-07-22 20:44:55,980 - SelProject -INFO - userName provided
+2021-07-22 20:44:56,095 - SelProject -INFO - password provided
+2021-07-22 20:44:58,130 - SelProject -INFO - clicked Submit button
+2021-07-22 20:45:01,154 - SelProject -WARN - Login Passed
+2021-07-22 20:45:01,261 - SelProject -INFO - userName provided
+2021-07-22 20:45:01,359 - SelProject -INFO - password provided
+2021-07-22 20:45:03,624 - SelProject -INFO - clicked Submit button
+2021-07-22 20:45:06,626 - SelProject -WARN - Login Passed
+2021-07-22 20:45:07,070 - SelProject -INFO - TestCase pAssed
+2021-07-22 20:45:07,311 - SelProject -INFO - TestCase pAssed
+2021-07-22 20:45:07,586 - SelProject -INFO - TestCase pAssed
+2021-07-23 20:45:49,121 - SelProject -INFO - Clicked A/B Testing link
+2021-07-23 20:45:49,153 - SelProject -ERROR - Text Verification Failed
+2021-07-23 20:48:12,192 - SelProject -INFO - Clicked A/B Testing link
+2021-07-23 20:48:12,227 - SelProject -INFO - Text Verified successfully
+2021-07-23 20:49:10,969 - SelProject -INFO - Clicked A/B Testing link
+2021-07-23 20:49:10,994 - SelProject -ERROR - Text Verification Failed
+2021-07-23 20:55:47,575 - SelProject -INFO - Clicked A/B Testing link
+2021-07-23 20:55:47,878 - SelProject -INFO - Text Verified successfully
+2021-07-23 20:56:10,639 - SelProject -INFO - Clicked A/B Testing link
+2021-07-23 20:56:10,942 - SelProject -INFO - Text Verified successfully
+2021-07-23 20:56:35,611 - SelProject -INFO - Clicked A/B Testing link
+2021-07-23 20:56:35,886 - SelProject -INFO - Text Verified successfully
+2021-07-23 20:56:57,355 - SelProject -INFO - Clicked A/B Testing link
+2021-07-23 20:56:57,667 - SelProject -INFO - Text Verified successfully
+2021-07-23 20:57:18,539 - SelProject -INFO - Clicked A/B Testing link
+2021-07-23 20:57:18,830 - SelProject -INFO - Text Verified successfully
+2021-07-23 21:53:18,090 - SelProject -INFO - Clicked A/B Testing link
+2021-07-23 21:53:18,249 - SelProject -INFO - Text Verified successfully
+2021-07-26 16:24:09,100 - SelProject -INFO - Clicked A/B Testing link
+2021-07-26 16:25:42,409 - SelProject -INFO - Clicked A/B Testing link
+2021-07-26 16:25:42,619 - SelProject -INFO - Text Verified successfully
+2021-07-26 16:26:22,400 - SelProject -INFO - Clicked A/B Testing link
+2021-07-26 16:26:22,572 - SelProject -INFO - Text Verified successfully
+2021-07-26 16:28:04,798 - SelProject -INFO - Clicked A/B Testing link
+2021-07-26 16:28:04,987 - SelProject -INFO - Text Verified successfully
+2021-07-26 17:03:35,663 - SelProject -INFO - Clicked A/B Testing link
+2021-07-26 17:05:01,767 - SelProject -INFO - Clicked A/B Testing link
+2021-07-26 17:06:26,987 - SelProject -INFO - Clicked A/B Testing link
+2021-07-26 17:06:27,162 - SelProject -INFO - Text Verified successfully
+2021-07-26 17:11:16,436 - SelProject -INFO - Clicked A/B Testing link
+2021-07-26 17:12:25,924 - SelProject -INFO - Clicked A/B Testing link
+2021-07-26 17:12:26,088 - SelProject -INFO - Text Verified successfully
+2021-07-26 17:17:33,488 - SelProject -INFO - Clicked A/B Testing link
+2021-07-26 17:18:30,385 - SelProject -INFO - Clicked A/B Testing link
+2021-07-26 17:19:43,997 - SelProject -INFO - Clicked A/B Testing link
+2021-07-26 17:21:28,766 - SelProject -INFO - Clicked A/B Testing link
+2021-07-26 17:23:03,233 - SelProject -INFO - Clicked A/B Testing link
+2021-07-26 17:27:55,731 - SelProject -INFO - Clicked A/B Testing link
+2021-07-26 17:33:12,321 - SelProject -INFO - Clicked A/B Testing link
+2021-07-26 17:33:12,527 - SelProject -ERROR - Text Verification Failed
+2021-07-27 08:08:20,621 - SelProject -INFO - Clicked A/B Testing link
+2021-07-27 08:08:21,014 - SelProject -ERROR - Text Verification Failed

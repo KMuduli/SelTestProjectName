@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [SelProjectName]">
+  <listeners>
+    <listener class-name="com.SelTestProjectName.utilities.Reporting"/>
+  </listeners>
+  <test thread-count="5" verbose="0" name="SelProject01(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.SelTestProjectName.testCases.TheInternetABTestingTest">
+        <methods>
+          <include name="ABTesting"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.SelTestProjectName.testCases.TheInternetABTestingTest -->
+    </classes>
+  </test> <!-- SelProject01(failed) -->
+</suite> <!-- Failed suite [SelProjectName] -->
